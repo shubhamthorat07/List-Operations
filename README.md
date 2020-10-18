@@ -1,2 +1,2 @@
 # List-Operations
-Operations performed on Lists in Python
+Various Operations performed on Lists in Python
